@@ -18,7 +18,9 @@ A simple Java Swing application for managing student registration information wi
 
 ## Screenshots
 
-![image](https://github.com/deemalvidarshana/Student-Registration-App-/assets/155978063/35fa9106-4d15-4151-9ac1-6b3d4874a4a9)
+<div style="text-align:center;">
+    <img src="https://github.com/deemalvidarshana/Student-Registration-App-/assets/155978063/35fa9106-4d15-4151-9ac1-6b3d4874a4a9" alt="Screenshot" />
+</div>
 
 ## Usage
 
